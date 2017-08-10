@@ -1,4 +1,4 @@
-#Day 3 Reflection: all about that CSS
+# Day 3 Reflection: all about that CSS
 
 Today we went over lists, loops, and logic (oh my!). Most of the content was familiar to me so I felt pretty comfortable. When we got to lab though I was surprised how much trouble I had figuring out how to write the loops correctly. I ended up having to take a step back, grab my notebook, and write out exactly what I wanted to do at a big picture and how to code that. Then I broke down any necessary chunks into the code needed to perform that operation. Ended up with some loops inside loops but it worked and really helped me understand what I needed to do. I should use my notebook from the beginning...
 
