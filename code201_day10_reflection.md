@@ -1,0 +1,5 @@
+# Who wants chocolate pizza?
+
+Lab today was one of my favorites so far. It was entirely CSS and HTMl, but I thought it was a great opportunity to make sure I understood (and remembered) how to achieve different effects with those languages. Pair programming with Will went very well; he used some different techniques than I had come up with originally to replicate the mockup and it helped me think about the project from different angles. We worked well to plan out our code chunk by chunk and then get that piece working before moving onto a different section of the page.
+
+We also got to see the presentations (semester and final) for the Code 401 classes in Javascript. I had a hard time following the semester presentations (since they were only the backend and I don't know much about servers), but the final projects were really cool. There were plenty of forms used which I thought was cool since we just learned about using them this week to make our webpage more interactive. I'm excited to learn how to make that data permanent in next week's lectures.
