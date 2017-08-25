@@ -1,0 +1,3 @@
+# Why does it do that?!
+
+I felt pretty good about moving through the lab today: most of the problems we had were because I made stupid typos or forgot to comment out code at the correct places. We got the entire order form page up and running. It looks great thanks to Michelle and takes in & stores user input. The big problem came when we tried to set up an html page with unique JS. That entire page is broken because it is trying to pull info from the app.js file instead of the cart.js file that it is hooked up to. I have no idea why it is doing this and after an hour of muddling around with it I am calling it a night. Sometimes you have to know when to say 'uncle' and wait until a more experienced coder can help.
