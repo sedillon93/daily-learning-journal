@@ -1,0 +1,3 @@
+# MVP!
+
+Today we got our minimum viable product up and running, which meant we got to start working on stretch goals and have a bug squashing session. I really enjoyed the bug hunt because it let me reexamine the code we'd written to make sure I <em>actually</em> knew what it was doing, not just what I thought it should do. I like thinking about the different edge cases and how to make the program work no matter what the user throws at it. From talking to people in the industry it seems like users can do some things you never expect so it's important to try and make your code as robust as possible to prevent user-error. Excited to keep developing the project tomorrow and make it look really polished.
