@@ -1,0 +1,3 @@
+# Fine tuning
+
+Today we continued refining the game to make it polished: making styling consistent across pages, finding and fixing bugs, adding on final features (like pre-populated score board and new letter timer). It was a fun day, though stressful at times, particularly when we found a bug after thinking everything was finished. It makes me a bit nervous that we are missing some edge cases, but I have wracked my brain trying to think of what could go wrong. We also discovered that our game can look quite different depending on what browser & preferences the user has for their computer. Today really drove home for me the importance of trying to design a site that looks good on any machine. The phrase "it works on my machine" took on a very real meaning after today.
