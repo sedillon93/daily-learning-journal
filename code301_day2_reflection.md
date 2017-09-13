@@ -1,0 +1,3 @@
+# Cooking with jQuery
+
+Today we dove into jQuery, and there are so many possibilities! I got really excited during the prework to see how much easier/cleaner writing Javascript is using this library and it has yet to disappoint me. As part of the portfolio project today we started using a template & object prototype to add content to the page. I'm having difficulty getting the styling right, particularly working with vh and vw as units instead of percents, but I think it'll be quite useful once I'm familiar with how to get the layout the way I want it. Practice makes better and this is really only my first full day styling mobile-first so I'm feeling pretty good with my understanding, shortcomings and all.
