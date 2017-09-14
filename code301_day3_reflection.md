@@ -1,0 +1,3 @@
+# One page to rule them all
+
+No more individual html files for each page of our sites. Today we got practice using just the index.html as the base for all of the other views. Instead of linking to another page and transporting the user, we can just change the content on the page to be whatever we want. Right now it's still very basic (just swapping out a couple divs or paragraphs) but it has the potential to totally alter the page's content without redirection! That's nice, because I think it means that our sites will be faster, and the code will likely be easier to maintain because there are fewer files in which to make errors. Again, still working on getting styling right with this newfound power but it functions.
