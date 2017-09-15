@@ -1,0 +1,3 @@
+# Code 301 - Day 1
+
+Today we dove right in to Code 301. It's definitely going to pack more punch than 201, which is exciting because I feel like they are really following through on the "intensive" part of the course description. We're certainly going to learn a lot in a short timeframe, which makes me feel more prepared getting ready to enter a new field. There's also a lot more variety of how we're coding than there was in 201; every day we have pair programming, an individual task for our portfolio, and a Code Wars challenge (which are real brain scratchers). Considering how much more comfortable & familiar I am with coding after 201 I can't wait to see what it'll be like at the end of 301.
