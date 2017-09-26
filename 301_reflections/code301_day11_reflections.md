@@ -1,0 +1,3 @@
+# Brain block
+
+I'm honestly not sure what I learned today. We went over new material in lecture (something about 'page') but I can't figure out why it's important. I think I didn't do enough over the weekend to prepare myself for this week (like getting my portfolio up to what I want) and then did not get through 1/4th of the lab due today so I'm starting out behind. I'm hoping to get back in the swing of things tomorrow but I'm afraid that I'm going to be playing catch-up with material for a bit and just trying to understand what I am supposed to do because often even the prompts don't help me figure out what I need to do.
