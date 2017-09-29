@@ -1,0 +1,3 @@
+# Reviewing
+
+Today we focused on tying up loose ends, finishing projects, and reviewing what we've learned in 301 by building another app as a class. I'm glad that we went over the material from scratch again but it was a bit more confusing with the format we used. Instead of coming up with a plan and going through sequentially we kind of jumped around. I think in the future when I'm starting a project I'll come up with a list of sequential steps so that I don't get confused about what I've built so far and what still needs to be done. Trying that strategy next week could help me stay on track during project week if I know to just go down the list and check items off like "okay, I initialized my repo and set up my file structure, now to build out the server.js file".
