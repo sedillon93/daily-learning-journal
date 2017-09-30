@@ -1,0 +1,3 @@
+# The last lecture
+
+Today was a wrap up day. We finished building the pokedex as a class and had time to wrap up assignments. We also spent part of lecture fielding career development questions which I really appreciated. Nick gave us advice on how to reach out to people & maintain connections, which is going to be very important when we're searching for a job. I'm going to reach out more to people I've met at recent meetups and try to set up an in-person meeting if possible. There are definitely people I've met who I thought were interesting and wanted to know more about them and their work so I guess this isn't the time to be shy.
