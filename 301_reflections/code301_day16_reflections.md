@@ -1,0 +1,3 @@
+# First day of project week!
+
+Today was the first day of project week and my number one take away is do not try to take a screen shot in your app; just don't do it. It'll give you a headache. That said, we came to a really cool way to *potentially* replicate the same results by doing a workaround with both Google Maps API and Google Static Maps API. Most of today was spent laying the groundwork for what we thought would be used by the screenshot, so we ended the day with a minimal amount of workable code but I'm not discouraged because I think we learned a lot and have a good plan to go forward.
