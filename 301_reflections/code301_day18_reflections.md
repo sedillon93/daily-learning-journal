@@ -1,0 +1,3 @@
+# Day Three of Project Week
+
+Today we hit MVP and got down to really looking at how to style for mobile & desktop. I was really excited to find a way to adjust the zoom level and map center we send to the static map API based on user input; I think it's a really important feature to have and it was great the Google had already built in that functionality. On the bus ride home I came up with an idea of how to incorporate a database into our app in a meaningful way and started playing around with it when I got home. It turned out to be harder than I thought; or at least I don't remember exactly how to set up and connect a database to the app through the server. I'm glad I tried that last night because now I know that is definitely something I need to keep practicing.
