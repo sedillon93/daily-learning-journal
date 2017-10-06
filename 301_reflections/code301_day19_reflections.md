@@ -1,0 +1,3 @@
+# Project Week Day 4
+
+We spent all of today styling the page views to look good. It made me realize two things. First: Doing CSS for an entire app in one sitting is actually pretty time consuming and mentally draining. Second: I do not remember as much CSS as I thought I did. Specifically about relative vs absolute positioning, when/how to use floats, and when to use ems/pixels/percentages/VH&VW. Adding those to the list of 'things I need to review between 301 and 401'. So takeaways are: do a bunch of CSS to make sure that sticks and is fresh, talk about styling at the start of the project vs. the end, and don't try to do all the styling in a single day.
